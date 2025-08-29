@@ -1,0 +1,10 @@
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <title>Judul Halaman Anda</title>
+        </head>
+        <body>
+            <h1>Selamat Datang!</h1>
+            <p>Ini adalah paragraf pertama saya di halaman HTML.</p>
+        </body>
+        </html>
